@@ -1,4 +1,7 @@
-
+"""
+WAP to accept and add element to existing list, if accepted element is iterable then extend the list otherwise append element 
+to the list.
+"""
 
 def ListDemo(element):
 	myList = [1,2,3,4,5]
