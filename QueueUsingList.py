@@ -43,4 +43,5 @@ if __name__ == "__main__":
 	print ("Queue : ",myList)
 
 	print ("Dequeue : ",Dequeue(myList))
+	print ("Dequeue : ",Dequeue(myList))
 	print ("Queue : ",myList)
