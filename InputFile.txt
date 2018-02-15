@@ -1,0 +1,9 @@
+subject=python2.734
+Country = india
+City=Pune
+name=vijay
+subject=python2.7
+hi THis is beautiful day
+this country is india
+hi , you are in india
+hi is this Feb?
