@@ -23,7 +23,8 @@ def FilterToPrintLines(file, filter):
 				print ln
 			ln = fd.readline()
 		return 1
-		
+	
+	# starts with "^......"
 	if filter.startswith("^"):
 		ln = fd.readline()
 		while ln:
@@ -32,9 +33,12 @@ def FilterToPrintLines(file, filter):
 			ln = fd.readline()
 		return 1
 		
+	# ends with ".......$"
+	# use strip to remove \n from string
 	if filter.endswith("$"):
 		ln = fd.readline()
 		while ln:
+			ln = ln.strip("\n")
 			if ln.endswith( filter [ 0 : -1 ] ):
 				print ln
 			ln = fd.readline()
