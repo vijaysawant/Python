@@ -1,0 +1,21 @@
+
+Note: -Dwebdriver.chrome.driver=     This parameter must contain chrome driver which present in env path
+
+Hub-
+java -jar ./offtap/deploy/test/tools/selenium-server-standalone.jar -role hub -host 10.234.164.110
+
+Node -
+java -Dwebdriver.chrome.driver=/tmp/deploy_venv/lib/chromedriver -jar ./offtap/deploy/test/tools/selenium-server-standalone.jar -role node -hub http://localhost:4444 -browserrowserName=chrome -host 10.234.164.110
+
+
+
+
+keys to remember:
+1 - test_1verify_management_server_drop_down has to be on first or second number in the credentials / plugin test cases list
+
+
+
+
+
+	test_1_verify_management_server_drop_down.py = Verify Management Server drop down when no vCenter is added in Credentials
+	test_2_verify_management_server_drop_down.py = Verify Management Server drop down when Credentials are added for a vCenter

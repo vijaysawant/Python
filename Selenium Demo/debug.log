@@ -1,0 +1,45 @@
+[0316/130047.933:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0316/130047.996:ERROR:exception_snapshot_win.cc(88)] thread ID 2144 not found in process
+[0316/130047.996:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0321/153809.326:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0321/153809.334:ERROR:exception_snapshot_win.cc(88)] thread ID 15628 not found in process
+[0321/153809.342:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0321/180014.264:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0321/180014.306:ERROR:exception_snapshot_win.cc(88)] thread ID 10848 not found in process
+[0321/180014.307:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0327/192137.915:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0327/192138.462:ERROR:exception_snapshot_win.cc(88)] thread ID 11400 not found in process
+[0327/192629.513:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0327/192629.529:ERROR:exception_snapshot_win.cc(88)] thread ID 7876 not found in process
+[0327/193230.862:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0327/193230.894:ERROR:exception_snapshot_win.cc(88)] thread ID 9392 not found in process
+[0328/115618.764:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/115619.219:ERROR:exception_snapshot_win.cc(88)] thread ID 9176 not found in process
+[0328/143852.669:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/143852.703:ERROR:exception_snapshot_win.cc(88)] thread ID 4088 not found in process
+[0328/190418.581:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/190418.618:ERROR:exception_snapshot_win.cc(88)] thread ID 5580 not found in process
+[0328/190714.638:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/190714.640:ERROR:exception_snapshot_win.cc(88)] thread ID 1144 not found in process
+[0328/192457.430:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/192457.480:ERROR:exception_snapshot_win.cc(88)] thread ID 14936 not found in process
+[0328/193751.481:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/193751.516:ERROR:exception_snapshot_win.cc(88)] thread ID 10840 not found in process
+[0328/195341.495:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/195341.495:ERROR:exception_snapshot_win.cc(88)] thread ID 14440 not found in process
+[0328/195547.197:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0328/195547.197:ERROR:exception_snapshot_win.cc(88)] thread ID 12564 not found in process
+[0329/104817.032:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0329/104817.064:ERROR:exception_snapshot_win.cc(88)] thread ID 10444 not found in process
+[0329/110830.052:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0329/110830.052:ERROR:exception_snapshot_win.cc(88)] thread ID 15288 not found in process
+[0329/173149.955:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0329/173149.990:ERROR:exception_snapshot_win.cc(88)] thread ID 14236 not found in process
+[0330/180317.325:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0330/180317.366:ERROR:exception_snapshot_win.cc(88)] thread ID 6720 not found in process
+[0330/180626.686:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0330/180626.689:ERROR:exception_snapshot_win.cc(88)] thread ID 5788 not found in process
+[0330/181456.240:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0330/181456.306:ERROR:exception_snapshot_win.cc(88)] thread ID 2244 not found in process
+[0330/181647.506:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0330/181647.506:ERROR:exception_snapshot_win.cc(88)] thread ID 11452 not found in process
