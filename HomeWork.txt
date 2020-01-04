@@ -1,0 +1,20 @@
+HW 1.0.17
+1. Wap to implement complex num class and operation on it. Add 2 complex num, 
+substract, compare, multiply the comple no by integer
+
+2. Wap to implement a class student. name, addr, roll num, marks, age,gender and operation on it
+add student, remove student, update student,display all student
+*****************************
+HW 7.10.17
+1. create class hierachi to inherite class in order
+		 A
+		/ \
+	   B   C
+	    \ /
+		 D
+
+HW 8.10.17		 
+1. Wap to accept pattern from user and compile it in such a way that it will ignore the case while
+matching the data
+2. Wap to implement your own finditer() method (it should only work on string or interger i.e \w)
+3. Go through all special charactors (!,@,#,$,%,^,&,*,(,),~)
